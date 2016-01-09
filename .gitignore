@@ -14,3 +14,4 @@ bookstore-spring-boot/.settings
 bookstore-spring-boot/.classpath
 bookstore-spring-boot/.project
 bookstore-spring-boot/target
+/target
